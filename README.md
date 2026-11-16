@@ -1,4 +1,4 @@
-# ReservaJá
+# ReservaJa
 
 Sistema de Gestão de Mesas, Reservas e Pedidos para restaurantes desenvolvido em Java, aplicando os conceitos de Programação Orientada a Objetos (POO).
 
