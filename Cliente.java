@@ -23,5 +23,12 @@ public class Cliente {
         this.nome = nome;
     }
 
+    public String getTelefone() {
+        return telefone;
+    }
+
+    public void setTelefone(String telefone) {
+        this.telefone = telefone;
+    }
     
 }
